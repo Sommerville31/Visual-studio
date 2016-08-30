@@ -9,7 +9,7 @@ namespace Variabler
     class Program
     {
         static void Main(string[] args)
-            //Övning1
+            //Övning1 
         {
         }
     }
